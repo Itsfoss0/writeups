@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@next/swc-linux-x64-gnu": "^15.2.4",
     "classnames": "^2.5.1",
     "date-fns": "^3.6.0",
     "gray-matter": "^4.0.3",
